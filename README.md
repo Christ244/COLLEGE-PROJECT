@@ -1,4 +1,4 @@
-# COLLEGE-PROJECT
+# COLLEGE-PROJECTS
 Baruch College CUNY Project I did in class
 
 Examples of the Classes I did from the Projects I posted 
